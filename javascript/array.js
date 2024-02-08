@@ -24,3 +24,6 @@ const stringarray1 =["a","b","c","d"]
 // console.log(raj); 
  
 const raj1 =[...stringarray , ...stringarray1]
+
+
+console.log(raj1);
